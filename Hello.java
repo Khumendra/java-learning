@@ -1,5 +1,8 @@
 class Hello{
     public static void main(String a[]){
-        System.out.print("Hello Makku!!!");
+        // variable
+        int num1 = 3;
+        int num2 = 4;
+        System.out.println(num1 + num2);
     }
 }
